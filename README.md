@@ -10,9 +10,9 @@ Para realizar este flow necesitas lo siguiente:
 
 1. Ubuntu 20.04
 2. NodeJS
-2.1. NPM
-2.2. NodeRed
-2.3. Nodos Dashboard
+* NPM
+* NodeRed
+* Nodos Dashboard
 
 # Material de referencia
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
@@ -22,7 +22,7 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 * Introducción a NodeRed
 
 # Instrucciones
-# Requisitos previos
+## Requisitos previos
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
 
 1. Instalación de NodeJS. Se recomienda tener instalado NodeJS en alguna versión LTS. Al momento de creación de este documento, se usó la versión 10.19LTS. Esta instalación debe incluir las Build-Tools para hacer uso de NPM
@@ -42,7 +42,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 # Resultados
 A continuación puede verse una vista previa del resultado de este flow.
 Resultados
-image.png
+![Cargando](https://github.com/DanielRochez/flow1-NodeRed/blob/main/imagen1.png?raw=true)
 
 # Evidencias
 Se mostraron en el apartado resultados
