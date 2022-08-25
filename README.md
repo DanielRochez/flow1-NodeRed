@@ -17,9 +17,9 @@ Para realizar este flow necesitas lo siguiente:
 # Material de referencia
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
-* Instalación de Virutal Box y Ubuntu 20.04
-* Instalación de NodeRed
-* Introducción a NodeRed
+* [Instalación de Virtual Box y Ubuntu 20.04](https://edu.codigoiot.com/course/view.php?id=812)
+* [Instalación de NodeRed](https://edu.codigoiot.com/enrol/index.php?id=817)
+* [Introducción a NodeRed](https://edu.codigoiot.com/enrol/index.php?id=278)
 
 # Instrucciones
 ## Requisitos previos
